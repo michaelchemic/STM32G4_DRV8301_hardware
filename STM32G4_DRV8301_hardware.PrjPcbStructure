@@ -1,4 +1,6 @@
 Record=TopLevelDocument|FileName=DRV8301_driver.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=DRV8301_driver.SchDoc|FileName=DRV8301_inverter.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=DRV8301_driver.SchDoc|FileName=DRV8301_SENSE.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=DRV8301_driver.SchDoc|FileName=STM32G4_DRV8301_hardware_TOP_V1.0.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=DRV8301_driver.SchDoc|FileName=STM32G4_microcontroller.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=DRV8301_driver.SchDoc|FileName=STM32G4_microcontroller_Power.SchDoc|SheetNumber=3
