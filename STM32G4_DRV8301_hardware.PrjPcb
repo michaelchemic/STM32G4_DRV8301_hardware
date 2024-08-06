@@ -50,6 +50,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Odrive_v3_hardware\STMicroelectronics STM32 F4\STMicroelectronics STM32 F4.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TSBOCPIB
+
+[Document2]
+DocumentPath=Odrive_v3_hardware\two_ax_PCB1\two_ax_PCB.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ABYDSMRT
+
+[Document3]
 DocumentPath=BOOSTXL-DRV8301\BOOSTXL-DRV8301.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXBEEPYR
 
-[Document2]
+[Document4]
 DocumentPath=MB11361\MB1136.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +117,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEPSQIMF
 
-[Document3]
+[Document5]
+DocumentPath=Odrive_v3_hardware\two_ax_PCB1\PCB.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SNRXECOM
+
+[Document6]
+DocumentPath=Odrive_v3_hardware\STMicroelectronics STM32 F4\STMicroelectronics STM32 F4.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HJOODWKW
+
+[Document7]
 DocumentPath=BOOSTXL-DRV8301\BOOSTXL-DRV8301.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPNMPQGK
 
-[Document4]
+[Document8]
 DocumentPath=mb1367\MB1367C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DRGGSFGQ
 
-[Document5]
+[Document9]
 DocumentPath=MB11361\MB1136.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NINRDAKF
 
-[Document6]
+[Document10]
 DocumentPath=mb1367\mb1367.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLUPFOMQ
 
-[Document7]
+[Document11]
 DocumentPath=Project_overview.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQPZIRGG
 
-[Document8]
+[Document12]
 DocumentPath=STM32G4_DRV8301_hardware_TOP_V1.0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDFEFDON
 
-[Document9]
+[Document13]
 DocumentPath=STM32G4_microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHZTVHYT
 
-[Document10]
+[Document14]
 DocumentPath=STM32G4_microcontroller_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,8 +287,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZCQUNPQU
 
-[Document11]
-DocumentPath=DRV8301_driver.SchDoc
+[Document15]
+DocumentPath=M1_DRV8301_driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QANBOTQS
 
-[Document12]
+[Document16]
 DocumentPath=DRV8301_SENSE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OZEQLPXA
 
-[Document13]
+[Document17]
 DocumentPath=DRV8301_inverter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPJNTWRT
 
-[Document14]
+[Document18]
 DocumentPath=STM32F1_microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,6 +354,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHJAIFGE
+
+[Document19]
+DocumentPath=M2_DRV8301_driver.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TCTXJMOX
 
 [Configuration1]
 Name=Sources
