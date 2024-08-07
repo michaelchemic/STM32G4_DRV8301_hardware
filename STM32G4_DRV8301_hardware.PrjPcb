@@ -322,6 +322,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OZEQLPXA
 
 [Document17]
+DocumentPath=M2_DRV8301_driver.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TCTXJMOX
+
+[Document18]
 DocumentPath=DRV8301_inverter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPJNTWRT
 
-[Document18]
+[Document19]
 DocumentPath=STM32F1_microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,23 +371,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHJAIFGE
-
-[Document19]
-DocumentPath=M2_DRV8301_driver.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TCTXJMOX
 
 [Configuration1]
 Name=Sources
