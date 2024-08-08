@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Administrator\Desktop\0.96-ÐÂ¿îÊúÆÁ\00-0.96OLEDÊúÆÁC51_SPIÀý³Ì\OLED.uvproj
+Project File Date:  08/18/2020
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+compiling oled.c...
+SRC\oled.c(277): warning C294: unreachable code
+SRC\oled.c(285): warning C294: unreachable code
+SRC\oled.c(293): warning C294: unreachable code
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?OLED_DISPLAY_ON?OLED
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?OLED_DISPLAY_OFF?OLED
+Program Size: data=30.0 xdata=0 code=4888
+creating hex file from "OLED"...
+"OLED" - 0 Error(s), 5 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+compiling oled.c...
+SRC\oled.c(277): warning C294: unreachable code
+SRC\oled.c(285): warning C294: unreachable code
+SRC\oled.c(293): warning C294: unreachable code
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?OLED_DISPLAY_ON?OLED
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?OLED_DISPLAY_OFF?OLED
+Program Size: data=30.0 xdata=0 code=4888
+creating hex file from "OLED"...
+"OLED" - 0 Error(s), 5 Warning(s).
