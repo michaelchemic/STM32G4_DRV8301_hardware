@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=DAUGHTERBOARD.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=POWER STAGE.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Project_Overview.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=SENSING.SchDoc|SheetNumber=6
