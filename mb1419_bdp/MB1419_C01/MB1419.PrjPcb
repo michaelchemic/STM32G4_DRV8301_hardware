@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PBNAPEYR
 
 [Document5]
-DocumentPath=ESC G4_Library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YEARQEPG
-
-[Document6]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WZNYDCFK
 
-[Document7]
+[Document6]
 DocumentPath=POWER STAGE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HZCMGSDW
 
-[Document8]
+[Document7]
 DocumentPath=SENSING.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPNXZIGQ
 
-[Document9]
+[Document8]
 DocumentPath=MB14191\MB1419.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,24 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WJBOKVNH
 
-[Document10]
-DocumentPath=ESC_G4.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IEOMTVLI
-
-[Document11]
+[Document9]
 DocumentPath=MB1419.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=MB1419.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIOJAYPM
 
-[Document13]
+[Document11]
 DocumentPath=MB1419.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,10 +259,6 @@ Variation14=Designator=TP1|UniqueId=\RXGPDGAC|Kind=1|AlternatePart=
 Variation15=Designator=TP2|UniqueId=\JIMTMOLA|Kind=1|AlternatePart= 
 Variation16=Designator=TP3|UniqueId=\SMLPCVWC|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ESC_G4.brd\Design Rule Check - MB1419.html
-DItemRevisionGUID=
 
 [Parameter1]
 Name=Board_Assembly_Revision
