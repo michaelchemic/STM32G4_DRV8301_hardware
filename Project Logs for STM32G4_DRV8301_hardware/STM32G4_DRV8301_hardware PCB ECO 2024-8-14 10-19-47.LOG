@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=M1_SH_A Pin=U27-1
+Removed Pin From Net: NetName=M1_SH_C Pin=U27-3
+Removed Pin From Net: NetName=M2_SH_A Pin=U28-1
+Removed Pin From Net: NetName=M2_SH_C Pin=U28-3
+Added Component: Designator=Logo1(TI_Symbol_Overlay_Small)
+Add component (AddParameter): Name = "ClassName"; Value = "Logo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2012-05-17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Changed publisher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2009-03-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolCreator"; Value = "codlsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2011-08-22"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M1_SH_C Pin=U27-1
+Added Pin To Net: NetName=M1_SH_A Pin=U27-3
+Added Pin To Net: NetName=M2_SH_C Pin=U28-1
+Added Pin To Net: NetName=M2_SH_A Pin=U28-3
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
