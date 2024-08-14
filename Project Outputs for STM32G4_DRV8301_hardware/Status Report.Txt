@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [STM32G4_DRV8301_hardware.PrjPcb]
+   Generated File[STM32G4_DRV8301_hardware.GTO]
+   Generated File[STM32G4_DRV8301_hardware.GTP]
+   Generated File[STM32G4_DRV8301_hardware.GTS]
+   Generated File[STM32G4_DRV8301_hardware.GTL]
+   Generated File[STM32G4_DRV8301_hardware.GBL]
+   Generated File[STM32G4_DRV8301_hardware.GBS]
+   Generated File[STM32G4_DRV8301_hardware.GBP]
+   Generated File[STM32G4_DRV8301_hardware.GBO]
+   Generated File[STM32G4_DRV8301_hardware.GM]
+   Generated File[STM32G4_DRV8301_hardware.EXTREP]
+   Generated File[STM32G4_DRV8301_hardware.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 17:09:21 On 2024/8/14
