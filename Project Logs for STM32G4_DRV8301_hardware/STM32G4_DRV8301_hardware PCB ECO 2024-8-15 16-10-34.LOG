@@ -1,0 +1,21 @@
+Added Component: Designator=L6(L0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/Inductors/TaiTech_Bead_FCM1608_series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TAI-TECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FCM1608KF-601T03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Provided_By"; Value = "SUBCO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600R@100MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=L6-1
+Added Pin To Net: NetName=GND Pin=L6-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
