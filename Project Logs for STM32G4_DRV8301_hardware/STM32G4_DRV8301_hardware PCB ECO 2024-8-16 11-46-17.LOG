@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=M2_DC_CAL Pin=R18-2
+Added Pin To Net: NetName=M2_DC_CAL Pin=U14-12
+Change Net Name : Old Net Name=M2_DC_CAL New Net Name=DC_CAL
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=PGND Pin=R83-1
+Added Pin To Net: NetName=M1_DC_CAL Pin=R83-1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component D15 BAT30KFILM
+Added Member To Class: ClassName=Designator Member=Component D17 BAS70-04
+Added Member To Class: ClassName=Designator Member=Component R42 10k
+Added Member To Class: ClassName=Designator Member=Component R46 10K
+Added Member To Class: ClassName=Designator Member=Component R48 10K
+Added Member To Class: ClassName=Designator Member=Component R50 1.8k
+Added Member To Class: ClassName=Designator Member=Component R56 3.3k
+Added Member To Class: ClassName=Designator Member=Component R58 10K
+Added Member To Class: ClassName=Designator Member=Component R60 10K
+Added Member To Class: ClassName=Designator Member=Component R65 1.8k
+Added Member To Class: ClassName=Designator Member=Component R67 10k
+Added Member To Class: ClassName=Designator Member=Component R69 4.7k
+Added Member To Class: ClassName=Designator Member=Component R71 4.7k
+Added Member To Class: ClassName=Designator Member=Component R73 170K
+Added Member To Class: ClassName=Designator Member=Component R75 4.7k

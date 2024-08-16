@@ -1,0 +1,549 @@
+Removed Pin From Net: NetName=PGND Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=PGND Pin=C69-2
+Removed Pin From Net: NetName=GND Pin=C76-2
+Removed Pin From Net: NetName=G4_CAN_L Pin=R1-1
+Removed Pin From Net: NetName=F1_CAN_L Pin=R97-1
+Removed Pin From Net: NetName=F1_CAN_H Pin=R97-2
+Removed Member From Class: ClassName=Designator Member=D31
+Change Component Comment : Designator=R1 Old Comment=120R New Comment=60R
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=C10 NewDesignator=C12
+Change Component Designator: OldDesignator=C11 NewDesignator=C13
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Change Component Designator: OldDesignator=C13 NewDesignator=C15
+Change Component Designator: OldDesignator=C14 NewDesignator=C16
+Change Component Designator: OldDesignator=C15 NewDesignator=C17
+Change Component Designator: OldDesignator=C16 NewDesignator=C18
+Change Component Designator: OldDesignator=C17 NewDesignator=C19
+Change Component Designator: OldDesignator=C18 NewDesignator=C20
+Change Component Designator: OldDesignator=C19 NewDesignator=C21
+Change Component Designator: OldDesignator=C20 NewDesignator=C22
+Change Component Designator: OldDesignator=C21 NewDesignator=C23
+Change Component Designator: OldDesignator=C22 NewDesignator=C24
+Change Component Designator: OldDesignator=C23 NewDesignator=C25
+Change Component Designator: OldDesignator=C24 NewDesignator=C26
+Change Component Designator: OldDesignator=C25 NewDesignator=C27
+Change Component Designator: OldDesignator=C26 NewDesignator=C28
+Change Component Designator: OldDesignator=C27 NewDesignator=C29
+Change Component Designator: OldDesignator=C28 NewDesignator=C30
+Change Component Designator: OldDesignator=C29 NewDesignator=C31
+Change Component Designator: OldDesignator=C30 NewDesignator=C32
+Change Component Designator: OldDesignator=C31 NewDesignator=C33
+Change Component Designator: OldDesignator=C32 NewDesignator=C34
+Change Component Designator: OldDesignator=C33 NewDesignator=C35
+Change Component Designator: OldDesignator=C34 NewDesignator=C36
+Change Component Designator: OldDesignator=C35 NewDesignator=C37
+Change Component Designator: OldDesignator=C36 NewDesignator=C38
+Change Component Designator: OldDesignator=C37 NewDesignator=C39
+Change Component Designator: OldDesignator=C38 NewDesignator=C40
+Change Component Designator: OldDesignator=C39 NewDesignator=C41
+Change Component Designator: OldDesignator=C40 NewDesignator=C42
+Change Component Designator: OldDesignator=C41 NewDesignator=C43
+Change Component Designator: OldDesignator=C42 NewDesignator=C44
+Change Component Designator: OldDesignator=C43 NewDesignator=C45
+Change Component Designator: OldDesignator=C44 NewDesignator=C46
+Change Component Designator: OldDesignator=C45 NewDesignator=C47
+Change Component Designator: OldDesignator=C46 NewDesignator=C48
+Change Component Designator: OldDesignator=C47 NewDesignator=C49
+Change Component Designator: OldDesignator=C48 NewDesignator=C50
+Change Component Designator: OldDesignator=C49 NewDesignator=C51
+Change Component Designator: OldDesignator=C50 NewDesignator=C52
+Change Component Designator: OldDesignator=C51 NewDesignator=C53
+Change Component Designator: OldDesignator=C52 NewDesignator=C54
+Change Component Designator: OldDesignator=C53 NewDesignator=C55
+Change Component Designator: OldDesignator=C54 NewDesignator=C56
+Change Component Designator: OldDesignator=C55 NewDesignator=C57
+Change Component Designator: OldDesignator=C56 NewDesignator=C58
+Change Component Designator: OldDesignator=C57 NewDesignator=C59
+Change Component Designator: OldDesignator=C58 NewDesignator=C60
+Change Component Designator: OldDesignator=C59 NewDesignator=C61
+Change Component Designator: OldDesignator=C60 NewDesignator=C62
+Change Component Designator: OldDesignator=C61 NewDesignator=C63
+Change Component Designator: OldDesignator=C62 NewDesignator=C64
+Change Component Designator: OldDesignator=C63 NewDesignator=C65
+Change Component Designator: OldDesignator=C64 NewDesignator=C66
+Change Component Designator: OldDesignator=C65 NewDesignator=C67
+Change Component Designator: OldDesignator=C66 NewDesignator=C68
+Change Component Designator: OldDesignator=C67 NewDesignator=C69
+Change Component Designator: OldDesignator=C68 NewDesignator=C70
+Change Component Designator: OldDesignator=C69 NewDesignator=C71
+Change Component Designator: OldDesignator=C70 NewDesignator=C72
+Change Component Designator: OldDesignator=C71 NewDesignator=C73
+Change Component Designator: OldDesignator=C72 NewDesignator=C74
+Change Component Designator: OldDesignator=C73 NewDesignator=C75
+Change Component Designator: OldDesignator=C74 NewDesignator=C76
+Change Component Designator: OldDesignator=C75 NewDesignator=C77
+Change Component Designator: OldDesignator=C76 NewDesignator=C78
+Change Component Designator: OldDesignator=C77 NewDesignator=C79
+Change Component Designator: OldDesignator=C78 NewDesignator=C80
+Change Component Designator: OldDesignator=C79 NewDesignator=C81
+Change Component Designator: OldDesignator=C80 NewDesignator=C82
+Change Component Designator: OldDesignator=C81 NewDesignator=C83
+Change Component Designator: OldDesignator=C82 NewDesignator=C84
+Change Component Designator: OldDesignator=C83 NewDesignator=C85
+Change Component Designator: OldDesignator=C84 NewDesignator=C86
+Change Component Designator: OldDesignator=C85 NewDesignator=C87
+Change Component Designator: OldDesignator=C86 NewDesignator=C88
+Change Component Designator: OldDesignator=C87 NewDesignator=C89
+Change Component Designator: OldDesignator=C88 NewDesignator=C90
+Change Component Designator: OldDesignator=C89 NewDesignator=C91
+Change Component Designator: OldDesignator=C90 NewDesignator=C92
+Change Component Designator: OldDesignator=C91 NewDesignator=C93
+Change Component Designator: OldDesignator=C98 NewDesignator=C96
+Change Component Designator: OldDesignator=C99 NewDesignator=C97
+Change Component Designator: OldDesignator=C100 NewDesignator=C98
+Change Component Designator: OldDesignator=C101 NewDesignator=C99
+Change Component Designator: OldDesignator=C102 NewDesignator=C100
+Change Component Designator: OldDesignator=C107 NewDesignator=C101
+Change Component Designator: OldDesignator=C108 NewDesignator=C102
+Change Component Designator: OldDesignator=C109 NewDesignator=C103
+Change Component Designator: OldDesignator=C110 NewDesignator=C104
+Change Component Designator: OldDesignator=C111 NewDesignator=C105
+Change Component Designator: OldDesignator=C112 NewDesignator=C106
+Change Component Designator: OldDesignator=C113 NewDesignator=C107
+Change Component Designator: OldDesignator=C114 NewDesignator=C108
+Change Component Designator: OldDesignator=C115 NewDesignator=C109
+Change Component Designator: OldDesignator=C116 NewDesignator=C110
+Change Component Designator: OldDesignator=C117 NewDesignator=C111
+Change Component Designator: OldDesignator=C118 NewDesignator=C112
+Change Component Designator: OldDesignator=C119 NewDesignator=C113
+Change Component Designator: OldDesignator=C120 NewDesignator=C114
+Change Component Designator: OldDesignator=C121 NewDesignator=C115
+Change Component Designator: OldDesignator=C122 NewDesignator=C116
+Change Component Designator: OldDesignator=C123 NewDesignator=C117
+Change Component Designator: OldDesignator=C124 NewDesignator=C118
+Change Component Designator: OldDesignator=C125 NewDesignator=C119
+Change Component Designator: OldDesignator=C126 NewDesignator=C120
+Change Component Designator: OldDesignator=C127 NewDesignator=C121
+Change Component Designator: OldDesignator=C128 NewDesignator=C122
+Change Component Designator: OldDesignator=C129 NewDesignator=C124
+Change Component Designator: OldDesignator=C130 NewDesignator=C123
+Change Component Designator: OldDesignator=C131 NewDesignator=C125
+Change Component Designator: OldDesignator=D14 NewDesignator=D13
+Change Component Designator: OldDesignator=D15 NewDesignator=D14
+Change Component Designator: OldDesignator=D16 NewDesignator=D15
+Change Component Designator: OldDesignator=D17 NewDesignator=D16
+Change Component Designator: OldDesignator=D18 NewDesignator=D17
+Change Component Designator: OldDesignator=D19 NewDesignator=D18
+Change Component Designator: OldDesignator=D20 NewDesignator=D19
+Change Component Designator: OldDesignator=D21 NewDesignator=D20
+Change Component Designator: OldDesignator=D22 NewDesignator=D21
+Change Component Designator: OldDesignator=D23 NewDesignator=D22
+Change Component Designator: OldDesignator=D24 NewDesignator=D23
+Change Component Designator: OldDesignator=D25 NewDesignator=D24
+Change Component Designator: OldDesignator=D26 NewDesignator=D25
+Change Component Designator: OldDesignator=D27 NewDesignator=D26
+Change Component Designator: OldDesignator=D28 NewDesignator=D27
+Change Component Designator: OldDesignator=D29 NewDesignator=D28
+Change Component Designator: OldDesignator=D30 NewDesignator=D29
+Change Component Designator: OldDesignator=D31 NewDesignator=D30
+Change Component Designator: OldDesignator=L5 NewDesignator=L6
+Change Component Designator: OldDesignator=L6 NewDesignator=L5
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R45 NewDesignator=R44
+Change Component Designator: OldDesignator=R46 NewDesignator=R45
+Change Component Designator: OldDesignator=R47 NewDesignator=R46
+Change Component Designator: OldDesignator=R48 NewDesignator=R47
+Change Component Designator: OldDesignator=R49 NewDesignator=R48
+Change Component Designator: OldDesignator=R50 NewDesignator=R49
+Change Component Designator: OldDesignator=R52 NewDesignator=R50
+Change Component Designator: OldDesignator=R53 NewDesignator=R51
+Change Component Designator: OldDesignator=R54 NewDesignator=R52
+Change Component Designator: OldDesignator=R56 NewDesignator=R53
+Change Component Designator: OldDesignator=R57 NewDesignator=R54
+Change Component Designator: OldDesignator=R58 NewDesignator=R55
+Change Component Designator: OldDesignator=R59 NewDesignator=R56
+Change Component Designator: OldDesignator=R60 NewDesignator=R57
+Change Component Designator: OldDesignator=R61 NewDesignator=R58
+Change Component Designator: OldDesignator=R62 NewDesignator=R59
+Change Component Designator: OldDesignator=R63 NewDesignator=R60
+Change Component Designator: OldDesignator=R64 NewDesignator=R61
+Change Component Designator: OldDesignator=R65 NewDesignator=R62
+Change Component Designator: OldDesignator=R66 NewDesignator=R63
+Change Component Designator: OldDesignator=R67 NewDesignator=R64
+Change Component Designator: OldDesignator=R68 NewDesignator=R65
+Change Component Designator: OldDesignator=R69 NewDesignator=R66
+Change Component Designator: OldDesignator=R70 NewDesignator=R67
+Change Component Designator: OldDesignator=R71 NewDesignator=R68
+Change Component Designator: OldDesignator=R72 NewDesignator=R69
+Change Component Designator: OldDesignator=R73 NewDesignator=R70
+Change Component Designator: OldDesignator=R74 NewDesignator=R71
+Change Component Designator: OldDesignator=R75 NewDesignator=R72
+Change Component Designator: OldDesignator=R76 NewDesignator=R73
+Change Component Designator: OldDesignator=R77 NewDesignator=R74
+Change Component Designator: OldDesignator=R78 NewDesignator=R75
+Change Component Designator: OldDesignator=R79 NewDesignator=R76
+Change Component Designator: OldDesignator=R80 NewDesignator=R77
+Change Component Designator: OldDesignator=R81 NewDesignator=R78
+Change Component Designator: OldDesignator=R82 NewDesignator=R79
+Change Component Designator: OldDesignator=R83 NewDesignator=R80
+Change Component Designator: OldDesignator=R84 NewDesignator=R81
+Change Component Designator: OldDesignator=R85 NewDesignator=R82
+Change Component Designator: OldDesignator=R86 NewDesignator=R83
+Change Component Designator: OldDesignator=R87 NewDesignator=R84
+Change Component Designator: OldDesignator=R88 NewDesignator=R85
+Change Component Designator: OldDesignator=R89 NewDesignator=R86
+Change Component Designator: OldDesignator=R90 NewDesignator=R87
+Change Component Designator: OldDesignator=R91 NewDesignator=R88
+Change Component Designator: OldDesignator=R92 NewDesignator=R89
+Change Component Designator: OldDesignator=R93 NewDesignator=R90
+Change Component Designator: OldDesignator=R94 NewDesignator=R91
+Change Component Designator: OldDesignator=R95 NewDesignator=R92
+Change Component Designator: OldDesignator=R96 NewDesignator=R93
+Change Component Designator: OldDesignator=U18 NewDesignator=U16
+Change Component Designator: OldDesignator=U19 NewDesignator=U17
+Change Component Designator: OldDesignator=U20 NewDesignator=U18
+Change Component Designator: OldDesignator=U21 NewDesignator=U19
+Change Component Designator: OldDesignator=U22 NewDesignator=U20
+Change Component Designator: OldDesignator=U23 NewDesignator=U21
+Change Component Designator: OldDesignator=U24 NewDesignator=U22
+Change Component Designator: OldDesignator=U25 NewDesignator=U23
+Change Component Designator: OldDesignator=U26 NewDesignator=U24
+Change Component Designator: OldDesignator=U27 NewDesignator=U25
+Change Component Designator: OldDesignator=U28 NewDesignator=U26
+Change Component Designator: OldDesignator=U29 NewDesignator=U27
+Change Component Designator: OldDesignator=U30 NewDesignator=U28
+Change Component Designator: OldDesignator=U31 NewDesignator=U29
+Change Component Designator: OldDesignator=U32 NewDesignator=U30
+Change Component Designator: OldDesignator=U33 NewDesignator=U31
+Added Component: Designator=C1(0603L)
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cap_Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cap_F"; Value = "0.000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/PnsearchViewAction.do?HnOFG=ON&HnNFG=ON&SEL_CNT=50&sLang=en&sKey=GRM188R61E105KA12D&x=9&y=9&search=startwith"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR_Ohm"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS_A"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-05-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Changed publisher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2008-06-19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-3897-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "81-GRM188R61E105KA12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1828802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2008-07-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TaMax_C"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TaMin_C"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance_%"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDisplayed"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC_V"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603L)
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cap_Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cap_F"; Value = "0.000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/PnsearchViewAction.do?HnOFG=ON&HnNFG=ON&SEL_CNT=50&sLang=en&sKey=GRM188R61E105KA12D&x=9&y=9&search=startwith"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR_Ohm"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS_A"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-05-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Changed publisher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2008-06-19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-3897-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "81-GRM188R61E105KA12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1828802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2008-07-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TaMax_C"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TaMin_C"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance_%"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDisplayed"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC_V"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C126(0603L)
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cap_Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cap_F"; Value = "0.000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/PnsearchViewAction.do?HnOFG=ON&HnNFG=ON&SEL_CNT=50&sLang=en&sKey=GRM188R61E105KA12D&x=9&y=9&search=startwith"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR_Ohm"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS_A"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-05-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Changed publisher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2008-06-19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-3897-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "81-GRM188R61E105KA12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1828802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2008-07-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TaMax_C"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TaMin_C"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance_%"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDisplayed"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC_V"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608X55N)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-07120RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°„C ~ 155°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.014, 25=0.01, 100=0.0057, 250=0.00436, 500=0.00348, 1000=0.00257, 2500=0.00223 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Ohms)"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1545282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-120HRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿100ppm/°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿1%"; VariantName = "[No Variations]"
+Added Component: Designator=R94(RESC1608X55N)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-07120RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°„C ~ 155°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.014, 25=0.01, 100=0.0057, 250=0.00436, 500=0.00348, 1000=0.00257, 2500=0.00223 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Ohms)"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1545282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-120HRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿100ppm/°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿1%"; VariantName = "[No Variations]"
+Added Component: Designator=R95(RESC1608X55N)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-07120RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°„C ~ 155°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.014, 25=0.01, 100=0.0057, 250=0.00436, 500=0.00348, 1000=0.00257, 2500=0.00223 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Ohms)"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1545282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-120HRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿100ppm/°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=PGND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C71-2
+Added Pin To Net: NetName=PGND Pin=C78-2
+Added Pin To Net: NetName=GND Pin=C126-2
+Added Pin To Net: NetName=G4_CAN_L Pin=R2-1
+Added Pin To Net: NetName=F1_CAN_H Pin=R94-2
+Added Pin To Net: NetName=F1_CAN_L Pin=R95-1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC29_2 New Net Name=NetC31_2
+Change Net Name : Old Net Name=NetC38_1 New Net Name=NetC40_1
+Change Net Name : Old Net Name=NetC38_2 New Net Name=NetC40_2
+Change Net Name : Old Net Name=NetC39_1 New Net Name=NetC41_1
+Change Net Name : Old Net Name=NetC40_1 New Net Name=NetC42_1
+Change Net Name : Old Net Name=NetC41_1 New Net Name=NetC43_1
+Change Net Name : Old Net Name=NetC42_1 New Net Name=NetC44_1
+Change Net Name : Old Net Name=NetC45_2 New Net Name=NetC47_2
+Change Net Name : Old Net Name=NetC51_1 New Net Name=NetC53_1
+Change Net Name : Old Net Name=NetC53_1 New Net Name=NetC55_1
+Change Net Name : Old Net Name=NetC55_1 New Net Name=NetC57_1
+Change Net Name : Old Net Name=NetC56_1 New Net Name=NetC58_1
+Change Net Name : Old Net Name=NetC57_1 New Net Name=NetC59_1
+Change Net Name : Old Net Name=NetC58_1 New Net Name=NetC60_1
+Change Net Name : Old Net Name=NetC59_1 New Net Name=NetC61_1
+Change Net Name : Old Net Name=NetC70_1 New Net Name=NetC72_1
+Change Net Name : Old Net Name=NetC70_2 New Net Name=NetC72_2
+Change Net Name : Old Net Name=NetC71_1 New Net Name=NetC73_1
+Change Net Name : Old Net Name=NetC72_1 New Net Name=NetC74_1
+Change Net Name : Old Net Name=NetC73_1 New Net Name=NetC75_1
+Change Net Name : Old Net Name=NetC74_1 New Net Name=NetC76_1
+Change Net Name : Old Net Name=NetC77_1 New Net Name=NetC79_1
+Change Net Name : Old Net Name=NetC77_2 New Net Name=NetC79_2
+Change Net Name : Old Net Name=NetC83_1 New Net Name=NetC85_1
+Change Net Name : Old Net Name=NetC85_1 New Net Name=NetC87_1
+Change Net Name : Old Net Name=NetC87_1 New Net Name=NetC89_1
+Change Net Name : Old Net Name=NetC88_1 New Net Name=NetC90_1
+Change Net Name : Old Net Name=NetC89_1 New Net Name=NetC91_1
+Change Net Name : Old Net Name=NetC90_1 New Net Name=NetC92_1
+Change Net Name : Old Net Name=NetC91_1 New Net Name=NetC93_1
+Change Net Name : Old Net Name=NetC114_2 New Net Name=NetC108_2
+Change Net Name : Old Net Name=NetC129_1 New Net Name=NetC124_1
+Change Net Name : Old Net Name=NetC130_1 New Net Name=NetC123_1
+Change Net Name : Old Net Name=NetC131_2 New Net Name=NetC125_2
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD18_2
+Change Net Name : Old Net Name=NetD20_2 New Net Name=NetD19_2
+Change Net Name : Old Net Name=NetD21_2 New Net Name=NetD20_2
+Change Net Name : Old Net Name=NetD22_2 New Net Name=NetD21_2
+Change Net Name : Old Net Name=NetD23_2 New Net Name=NetD22_2
+Change Net Name : Old Net Name=NetD24_2 New Net Name=NetD23_2
+Change Net Name : Old Net Name=NetD25_2 New Net Name=NetD24_2
+Change Net Name : Old Net Name=NetD26_2 New Net Name=NetD25_2
+Change Net Name : Old Net Name=NetD27_2 New Net Name=NetD26_2
+Change Net Name : Old Net Name=NetD28_2 New Net Name=NetD27_2
+Change Net Name : Old Net Name=NetD29_2 New Net Name=NetD28_2
+Change Net Name : Old Net Name=NetD30_2 New Net Name=NetD29_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NetR38_2 New Net Name=NetR39_2
+Change Net Name : Old Net Name=NetR39_2 New Net Name=NetR40_2
+Change Net Name : Old Net Name=NetR52_1 New Net Name=NetR50_1
+Change Net Name : Old Net Name=NetR53_1 New Net Name=NetR51_1
+Change Net Name : Old Net Name=NetR54_2 New Net Name=NetR52_2
+Change Net Name : Old Net Name=NetR56_2 New Net Name=NetR53_2
+Change Net Name : Old Net Name=NetR65_1 New Net Name=NetR62_1
+Change Net Name : Old Net Name=NetR66_1 New Net Name=NetR63_1
+Change Net Name : Old Net Name=NetR67_2 New Net Name=NetR64_2
+Change Net Name : Old Net Name=NetR68_2 New Net Name=NetR65_2
+Change Net Name : Old Net Name=NetR96_2 New Net Name=NetR93_2
+Added Pin To Net: NetName=G4_ADC2_IN4 Pin=C54-1
+Added Pin To Net: NetName=G4_ADC2_IN4 Pin=R20-1
+Added Pin To Net: NetName=G4_ADC2_IN4 Pin=U4-21
+Added Net: Name=G4_ADC2_IN4
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC126_1 Pin=C126-1
+Added Pin To Net: NetName=NetC126_1 Pin=R94-1
+Added Pin To Net: NetName=NetC126_1 Pin=R95-2
+Added Net: Name=NetC126_1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

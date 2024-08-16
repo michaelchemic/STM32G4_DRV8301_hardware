@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=M1_SL_C Pin=U14-34
+Removed Pin From Net: NetName=M1_SL_C Pin=U15-34
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J9
+Change Component Designator: OldDesignator=J8 NewDesignator=J10
+Change Component Designator: OldDesignator=J9 NewDesignator=J11
+Change Component Designator: OldDesignator=J10 NewDesignator=J12
+Added Component: Designator=J3(Net-Tie_10mil)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-05-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Added Alternate PartNumber and Alternate Manufacturer parameters to appropriate components."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolCreator"; Value = "codlsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2009-07-01"; VariantName = "[No Variations]"
+Added Component: Designator=J8(Net-Tie_10mil)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-05-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Added Alternate PartNumber and Alternate Manufacturer parameters to appropriate components."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolCreator"; Value = "codlsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2009-07-01"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M1_SL_C Pin=C38-2
+Added Pin To Net: NetName=M1_SL_C Pin=C46-2
+Added Pin To Net: NetName=M1_SL_C Pin=C62-2
+Added Pin To Net: NetName=M1_SL_C Pin=C63-2
+Added Pin To Net: NetName=M1_SL_C Pin=C64-2
+Added Pin To Net: NetName=M1_SL_C Pin=C65-2
+Added Pin To Net: NetName=M1_SL_C Pin=C66-2
+Added Pin To Net: NetName=M1_SL_C Pin=C67-2
+Added Pin To Net: NetName=M1_SL_C Pin=C68-2
+Added Pin To Net: NetName=M1_SL_C Pin=C69-2
+Added Pin To Net: NetName=M1_SL_C Pin=C70-2
+Added Pin To Net: NetName=M1_SL_C Pin=C78-2
+Added Pin To Net: NetName=M1_SL_C Pin=CN2-1
+Added Pin To Net: NetName=M1_SL_C Pin=CN2-3
+Added Pin To Net: NetName=M1_SL_C Pin=CN2-4
+Added Pin To Net: NetName=M1_SL_C Pin=CN3-1
+Added Pin To Net: NetName=M1_SL_C Pin=CN3-3
+Added Pin To Net: NetName=M1_SL_C Pin=CN3-4
+Added Pin To Net: NetName=M1_SL_C Pin=J2-1
+Added Pin To Net: NetName=M1_SL_C Pin=J3-2
+Added Pin To Net: NetName=M1_SL_C Pin=J8-2
+Added Pin To Net: NetName=M1_SL_C Pin=L5-1
+Change Net Name : Old Net Name=M1_SL_C New Net Name=PGND
+Added Pin To Net: NetName=M1_SL_C Pin=J3-1
+Added Pin To Net: NetName=M1_SL_C Pin=U14-34
+Added Net: Name=M1_SL_C
+Added Pin To Net: NetName=M2_SL_C Pin=J8-1
+Added Pin To Net: NetName=M2_SL_C Pin=U15-34
+Added Net: Name=M2_SL_C
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
