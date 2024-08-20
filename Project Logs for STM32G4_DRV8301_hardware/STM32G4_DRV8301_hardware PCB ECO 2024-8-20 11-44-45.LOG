@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=C48-1
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=C49-1
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=C50-1
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=C51-1
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=C52-1
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=L4-1
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=Q2-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=Q3-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=Q4-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=Q5-2
+Removed Pin From Net: NetName=M2_SH_A Pin=Q25-
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=R11-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=R12-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=R16-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=R22-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=R27-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=R28-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=R38-2
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=U14-49
+Removed Pin From Net: NetName=M1_BIAS/VDD_SPI Pin=U15-49
+Added Pin To Net: NetName=3V3 Pin=C48-1
+Added Pin To Net: NetName=3V3 Pin=C49-1
+Added Pin To Net: NetName=3V3 Pin=C50-1
+Added Pin To Net: NetName=3V3 Pin=C51-1
+Added Pin To Net: NetName=3V3 Pin=C52-1
+Added Pin To Net: NetName=3V3 Pin=L4-1
+Added Pin To Net: NetName=3V3 Pin=Q2-2
+Added Pin To Net: NetName=3V3 Pin=Q3-2
+Added Pin To Net: NetName=3V3 Pin=Q4-2
+Added Pin To Net: NetName=3V3 Pin=Q5-2
+Add Pin To Net: Unknown Pin: Pin Q25-5
+Added Pin To Net: NetName=3V3 Pin=R11-2
+Added Pin To Net: NetName=3V3 Pin=R12-2
+Added Pin To Net: NetName=3V3 Pin=R16-2
+Added Pin To Net: NetName=3V3 Pin=R22-2
+Added Pin To Net: NetName=3V3 Pin=R27-2
+Added Pin To Net: NetName=3V3 Pin=R28-2
+Added Pin To Net: NetName=3V3 Pin=R38-2
+Added Pin To Net: NetName=3V3 Pin=U14-49
+Added Pin To Net: NetName=3V3 Pin=U15-49
+Change Net Name : Old Net Name=M1_BIAS/VDD_SPI New Net Name=3.3V
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9

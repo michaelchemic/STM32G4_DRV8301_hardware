@@ -1,0 +1,13 @@
+Add Pin To Net: Unknown Pin: Pin Q25-5
+Added Pin To Net: NetName=3V3 Pin=U5-1
+Added Pin To Net: NetName=3V3 Pin=U27-1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Differential Pair: Name=M1_A_ISENSE
+Added Differential Pair: Name=M1_B_ISENSE
+Added Differential Pair: Name=M2_A_ISENSE
+Added Differential Pair: Name=M2_B_ISENSE
